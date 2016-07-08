@@ -1,0 +1,17 @@
+<head>
+  <title>hazir</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+  {{> info}}
+</body>
+
+<template name="hello">
+  
+</template>
+<template name="info">
+ 
+</template>
