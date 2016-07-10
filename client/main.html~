@@ -1,14 +1,14 @@
 <head>
-  <title>hazir</title>
+  <title>Hazzir</title>
 </head>
 
 <body>
-  <h1>hazir</h1>
+  {{ > Department}}
 </body>
 
-<template name="hello">
-  
+<template name="Department">
+	<form>
+		<input type="submit" value="Add Department">
+ 	</form>
 </template>
-<template name="info">
- 
-</template>
+
